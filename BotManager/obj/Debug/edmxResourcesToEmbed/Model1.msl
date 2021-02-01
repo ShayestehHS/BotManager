@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BotManagerModelStoreContainer" CdmEntityContainer="BotManagerEntities">
+    <EntitySetMapping Name="PollList">
+      <EntityTypeMapping TypeName="BotManagerModel.PollList">
+        <MappingFragment StoreEntitySet="PollList">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NumbersOfVote" ColumnName="NumbersOfVote" />
+          <ScalarProperty Name="PollTitle" ColumnName="PollTitle" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PollManager">
+      <EntityTypeMapping TypeName="BotManagerModel.PollManager">
+        <MappingFragment StoreEntitySet="PollManager">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="VotedByUser" ColumnName="VotedByUser" />
+          <ScalarProperty Name="PollID" ColumnName="PollID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

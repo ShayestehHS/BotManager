@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BotManagerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="PollList">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NumbersOfVote" Type="int" Nullable="false" />
+    <Property Name="PollTitle" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PollManager">
+    <Key>
+      <PropertyRef Name="PollID" />
+    </Key>
+    <Property Name="PollID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VotedByUser" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="BotManagerModelStoreContainer">
+    <EntitySet Name="PollList" EntityType="Self.PollList" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PollManager" EntityType="Self.PollManager" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
