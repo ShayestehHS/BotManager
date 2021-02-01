@@ -1,0 +1,6 @@
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting(Bussiness).dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting(Bussiness).pdb
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting(Bussiness).csprojAssemblyReference.cache
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting(Bussiness).csproj.CoreCompileInputs.cache
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting(Bussiness).dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting(Bussiness).pdb

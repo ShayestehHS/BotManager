@@ -1,0 +1,10 @@
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(App)\bin\Debug\Accounting(App).exe.config
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(App)\bin\Debug\Accounting(App).exe
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(App)\bin\Debug\Accounting(App).pdb
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(App)\obj\Debug\Accounting(App).csprojAssemblyReference.cache
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(App)\obj\Debug\Accounting_App_.frmCustomer.resources
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(App)\obj\Debug\Accounting_App_.Properties.Resources.resources
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(App)\obj\Debug\Accounting(App).csproj.GenerateResource.cache
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(App)\obj\Debug\Accounting(App).csproj.CoreCompileInputs.cache
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(App)\obj\Debug\Accounting(App).exe
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(App)\obj\Debug\Accounting(App).pdb

@@ -1,0 +1,12 @@
+C:\Users\shayestehhs\source\repos\Accounting(App)\Acounting(ViewModel)\bin\Debug\Acounting(ViewModel).dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Acounting(ViewModel)\bin\Debug\Acounting(ViewModel).pdb
+C:\Users\shayestehhs\source\repos\Accounting(App)\Acounting(ViewModel)\obj\Debug\Acounting_ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\shayestehhs\source\repos\Accounting(App)\Acounting(ViewModel)\obj\Debug\Acounting(ViewModel).dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Acounting(ViewModel)\obj\Debug\Acounting(ViewModel).pdb
+C:\Users\shayestehhs\source\repos\Accounting(App)\Acounting(ViewModel)\obj\Debug\Acounting_ViewModel.csprojAssemblyReference.cache
+F:\computer\C#\C# Projects\Accounting(App)\Acounting(ViewModel)\bin\Debug\Acounting(ViewModel).dll
+F:\computer\C#\C# Projects\Accounting(App)\Acounting(ViewModel)\bin\Debug\Acounting(ViewModel).pdb
+F:\computer\C#\C# Projects\Accounting(App)\Acounting(ViewModel)\obj\Debug\Acounting_ViewModel.csprojAssemblyReference.cache
+F:\computer\C#\C# Projects\Accounting(App)\Acounting(ViewModel)\obj\Debug\Acounting_ViewModel.csproj.CoreCompileInputs.cache
+F:\computer\C#\C# Projects\Accounting(App)\Acounting(ViewModel)\obj\Debug\Acounting(ViewModel).dll
+F:\computer\C#\C# Projects\Accounting(App)\Acounting(ViewModel)\obj\Debug\Acounting(ViewModel).pdb

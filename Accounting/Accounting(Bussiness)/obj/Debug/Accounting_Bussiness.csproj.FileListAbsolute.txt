@@ -1,0 +1,36 @@
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting(Bussiness).dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting(Bussiness).pdb
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting(utility).dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting_DataLayer.dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\Acounting(ViewModel).dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\EntityFramework.dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting(utility).pdb
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting_DataLayer.pdb
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting_DataLayer.dll.config
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\Acounting(ViewModel).pdb
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\EntityFramework.xml
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting_Bussiness.csprojAssemblyReference.cache
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting_Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting_Bussiness.csproj.CopyComplete
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting(Bussiness).dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting(Bussiness).pdb
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting(Bussiness).dll
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting(Bussiness).pdb
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting(utility).dll
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting_DataLayer.dll
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\Acounting(ViewModel).dll
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\EntityFramework.dll
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\EntityFramework.SqlServer.dll
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting(utility).pdb
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting_DataLayer.pdb
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\Accounting_DataLayer.dll.config
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\Acounting(ViewModel).pdb
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\EntityFramework.xml
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\bin\Debug\EntityFramework.SqlServer.xml
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting_Bussiness.csprojAssemblyReference.cache
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting_Bussiness.csproj.CoreCompileInputs.cache
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting_Bussiness.csproj.CopyComplete
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting(Bussiness).dll
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(Bussiness)\obj\Debug\Accounting(Bussiness).pdb

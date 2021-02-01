@@ -1,0 +1,11 @@
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(utility)\bin\Debug\Accounting(utility).dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(utility)\bin\Debug\Accounting(utility).pdb
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(utility)\obj\Debug\Accounting_utility.csproj.CoreCompileInputs.cache
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(utility)\obj\Debug\Accounting(utility).dll
+C:\Users\shayestehhs\source\repos\Accounting(App)\Accounting(utility)\obj\Debug\Accounting(utility).pdb
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(utility)\bin\Debug\Accounting(utility).dll
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(utility)\bin\Debug\Accounting(utility).pdb
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(utility)\obj\Debug\Accounting_utility.csprojAssemblyReference.cache
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(utility)\obj\Debug\Accounting_utility.csproj.CoreCompileInputs.cache
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(utility)\obj\Debug\Accounting(utility).dll
+F:\computer\C#\C# Projects\Accounting(App)\Accounting(utility)\obj\Debug\Accounting(utility).pdb
