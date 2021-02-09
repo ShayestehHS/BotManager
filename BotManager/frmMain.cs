@@ -58,7 +58,7 @@ namespace BotManager
                         while (Up.CallbackQuery != null)
                         {
                             //Contatct To Me Inline
-                            if (Up.CallbackQuery.Data.Contains("gmail")) { Bot.SendTextMessageAsync(Up.CallbackQuery.Message.Chat.Id, "My Gmail address is : hosseinshayesteh47.hs@gmail.com"); Up.CallbackQuery = null; break; }
+                            if (Up.CallbackQuery.Data.Contains("gmail")) { Bot.SendTextMessageAsync(Up.CallbackQuery.Message.Chat.Id, "My Gmail address is : shayestehhs1@Gmail.com"); Up.CallbackQuery = null; break; }
                             else if (Up.CallbackQuery.Data.Contains("outlook")) { Bot.SendTextMessageAsync(Up.CallbackQuery.Message.Chat.Id, "My Outlook address is : Shyestehhs@outlook.com"); Up.CallbackQuery = null; break; }
                             //Poll Inline
                             var user = db.PollManager.SingleOrDefault(u => u.UserID == Up.CallbackQuery.From.Id);
