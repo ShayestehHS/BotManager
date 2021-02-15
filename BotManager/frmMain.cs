@@ -153,6 +153,7 @@ namespace BotManager
                     }));
                     }
                 }
+                catch (System.AggregateException) { MessageBox.Show("I think you should turn on your vpn"); }
                 catch { MessageBox.Show("An error accured"); }
             }
         }
